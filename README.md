@@ -23,7 +23,6 @@
 - 📉 **Terrible at coding** literally everything. If it can break, I will break it.
 - 🗑️ Proud producer of **AI slop** and handcrafted **me-slop**.
 - 🦥 **Very dumb, completely un-advanced, and aggressively lazy.**
-- 🎯 My brain only has room for one thing: **C++**.
 
 ---
 
@@ -37,7 +36,7 @@ I *technically* know a few languages, but let's be honest:
 | **Python** 🐍 | I know it, but so sloooowwwww |
 | **HTML5** 🌐 | It's there. I guess. |
 | **CSS3** 🎨 | can use it but will be awfully ugly |
-| **Rust** 🦀 | don't care about rust. stop telling me to rewrite it in rust. |
+| **Rust** 🦀 | absolut hate. stop telling me that rust better i think not and i dont care |
 
 <br>
 
@@ -52,25 +51,6 @@ I *technically* know a few languages, but let's be honest:
 <p align="center">
   <i>(Notice how C++ is bigger? Because nothing else is BETTER. dont care about rust)</i>
 </p>
-
----
-
-### 🛠️ My Elite Development Stack
-
-- **Primary Compiler:** `g++ -O3` *(hoping the optimizer fixes my awful code)*
-- **Advanced Debugger:** `std::cout << "here 1" << std::endl;`
-- **Code Architecture:** 100% Pure Spaghetti
-- **Memory Management:** What's a memory leak? If the OS closes it, it's not my problem.
-
----
-
-### 🎯 Life Roadmap
-
-- [ ] Rewrite my entire life in C++
-- [ ] Stare at a 500-line template error message for 3 hours
-- [ ] Actually finish a project instead of abandoning it after 10 minutes
-- [x] Produce ungodly amounts of AI slop and me-slop
-- [x] Refuse to learn Rust
 
 ---
 
