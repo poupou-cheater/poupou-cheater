@@ -32,21 +32,11 @@ I *technically* know a few languages, but let's be honest:
 
 | Language | How I feel about it |
 | :--- | :--- |
-| **C++** 💙 | **the only coding language i want to use for everything** |
-| **Python** 🐍 | I know it, but so sloooowwwww |
-| **HTML5** 🌐 | It's there. I guess. |
-| **CSS3** 🎨 | can use it but will be awfully ugly |
-| **Rust** 🦀 | absolut hate. stop telling me that rust better i think not and i dont care |
-
-<br>
-
-<p align="center">
-  <img src="./img/tech-stack.svg" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <i>(Notice how C++ is bigger? Because nothing else is BETTER. dont care about rust)</i>
-</p>
+| <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> | **the only coding language i want to use for everything** |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> | I know it, but so sloooowwwww |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> | It's there. I guess. |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" /> | can use it but will be awfully ugly |
+| <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> | absolut hate. stop telling me that rust better i think not and i dont care |
 
 ---
 
