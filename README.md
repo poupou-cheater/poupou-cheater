@@ -40,20 +40,9 @@ I *technically* know a few languages, but let's be honest:
 
 <br>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="70" />
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" /><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="22" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="22" />
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="./img/tech-stack.svg" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <i>(Notice how C++ is bigger? Because nothing else is BETTER. dont care about rust)</i>
